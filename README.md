@@ -25,7 +25,7 @@ Once published, the paper and code base would enable us to quickly update the cu
 * Please review  the manuscript and save a copy in the same folder without your initials and date as a suffix:
 * * indicate general comments and suggest changes to sections, conceptual or theoretical issues, dissenting opinions including if need be new methods.
   * note the scope of the paper - you are most welcome to contribute your own papers if you feel the scope is too restrctive.
-  *try NOT to suggest additional materials - the paper is about methods and not an actual validation report.
+  * try NOT to suggest additional materials - the paper is about methods and not an actual validation report.
 * Please log an **issue** in this repo if you have a strong opinion or feel there is a blunder of some sort
 
 
