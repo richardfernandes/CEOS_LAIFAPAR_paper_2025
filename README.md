@@ -22,7 +22,7 @@ Once published, the paper and code base would enable us to quickly update the cu
 
 ## **Due December 15, 2025:**
 
-* Please review  the manuscript and save a copy in the same folder without your initials and date as a suffix:
+* Please review the [manuscript](https://github.com/richardfernandes/CEOS_LAIFAPAR_paper_2025/blob/main/manuscript/A%20Methodology%20for%20Validating%20Decametric%20Resolution%20Satellite%20Leaf%20Area%20Index%20and%20fAPAR%20Products_V01.docx)  and save a copy in the same folder without your initials and date as a suffix:
 * * indicate general comments and suggest changes to sections, conceptual or theoretical issues, dissenting opinions including if need be new methods.
   * note the scope of the paper - you are most welcome to contribute your own papers if you feel the scope is too restrctive.
   * try NOT to suggest additional materials - the paper is about methods and not an actual validation report.
