@@ -1,0 +1,23 @@
+some columns you may be curious :
+
+t_x,t_y, UTM projection coordinates of GEDI footprint
+
+match_x, match_y: UTM projection coordinates after footprint offset adjustment
+
+distance_offset: geolocation offset distance
+
+NLCD: land cover type derived from National Land Cover Database (2019)
+
+CHM_98: canopy height at the GEDI reported location
+
+CHM_98_c: canopy height at the adjusted GEDI location
+
+rhReal98, ALScover_s, cover_s, beamDense_s,zenith_s,groundslope_s, layered_LAI_t: derived from gediSimulator: https://bitbucket.org/StevenHancock/gedisimulator/src/master/
+
+slope: terrain slope on the adjusted GEDI location
+
+SCI: reference  canopy cover derived from point cloud at the GEDI reported location
+
+SCI_c: canopy cover at the adjusted GEDI location
+
+PAI_NEON: reference PAI directly estimated by -ln(1 - SCI_c)/0.5
