@@ -1,13 +1,13 @@
 # CEOS_LAIFAPAR_paper_2025
-Documents, data and results for CEOS LAI FAPAR validation paper 2025
+Documents, data and results for CEOS LAI FAPAR validation paper 2025 (now 2026)
 
-## Welcome coauthors!  
+## Welcome coauthors! Version 2 is now drafted for comments.   
 
 This repo contains material for the CEOS WGCV Biophysical Group paper "A Methodology for Validating Synoptic Decametric Resolution Satellite Leaf Area Index and fAPAR Products."
 
 
 
-The goal is to submit an invited paper **BEFORE February 28, 2026** to the [RSE Specical Issue Development, Validation, and Application of Medium- and High-Resolution Satellite Products at Regional to Global Scales](https://www.sciencedirect.com/special-issue/321741/development-validation-and-application-of-medium-and-high-resolution-satellite-products-at-regional-to-global-scales). 
+The goal is to submit a paper to the Copernecus Open Journal Earth Observation as soon as feasible (yes - I was delayed so the RSE idea is off but anyways the open journal allows for community feedback).
 
 
 
